@@ -1,5 +1,5 @@
 {
-  "name": "@contentstack/datasync-manager",
+  "name": "test_1",
   "author": "Contentstack LLC <support@contentstack.com>",
   "version": "2.0.1",
   "description": "The primary module of Contentstack DataSync. Syncs Contentstack data with your server using Contentstack Sync API",
