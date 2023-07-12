@@ -1,0 +1,28 @@
+# Runtime data
+.token
+.ledger
+.checkpoint
+_contents
+_development_contents
+unprocessible
+_mongo_assets
+_dev_assets
+test-filtered.json
+
+# IDE config
+.vscode
+
+# Dependency directories
+node_modules
+
+# Coverage directories
+coverage
+test-report.html
+
+# Private examples
+example/**/*
+!example/config.js
+!example/index.js
+
+dist/
+dist/*
